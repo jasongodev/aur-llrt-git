@@ -1,6 +1,6 @@
 pkgbase = llrt-git
 	pkgdesc = Lightweight JavaScript runtime, compiler, REPL, and test runner (STANDARD @aws-sdk bundled)
-	pkgver = 20251121.120336
+	pkgver = 20251121.200859
 	pkgrel = 1
 	url = https://github.com/awslabs/llrt
 	arch = x86_64
